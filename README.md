@@ -24,18 +24,23 @@ In the results viewing section, we observe the result of selecting features and 
 
 First, we observe the given educational pictures side by side.
 ![](https://i.ibb.co/HXR39vT/1-1.png)
+
 In the following, we see the selected features on each image in each step.
 ![](https://i.ibb.co/vJZsZGk/1-2.png)
 ![](https://i.ibb.co/Smxgd1r/1-3.png)
 ![](https://i.ibb.co/YBH2MY8/1-4.png)
+
 Then we see the matched features between the images.
 ![](https://i.ibb.co/7r1kLv4/1-5.png)
+
 Now we see the results of panoramic images.
 ![](https://i.ibb.co/QXXry35/1-6.png)
+
 As can be seen, the algorithm has well selected many features as Match and the panoramic image is well made in the third stage.
 
 
 In the following, we observe the pictures taken by my own camera and apply the algorithm on it as well.
 ![](https://i.ibb.co/6vtqcH9/1-7.png)
-![enter image description here](https://i.ibb.co/dWvJ107/1-8.png)
+![](https://i.ibb.co/dWvJ107/1-8.png)
+
 As we can see, the algorithm works well in the low light environment and has stitched the images together.
